@@ -3,7 +3,7 @@ package Desafio.Codigo_01;
 import java.util.Scanner;
 import java.util.regex.Pattern;
 
-public class VerificandoSenhasResCurto {
+public class VerificandoSenhasResCurta {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

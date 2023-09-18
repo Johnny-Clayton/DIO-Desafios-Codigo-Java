@@ -1,7 +1,7 @@
 package Desafio.Codigo_02;
 import java.util.Scanner;
 
-public class CalcVelocidadeDownloadResCurto {
+public class CalcVelocidadeDownloadResCurta {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double distanciaServidores = scanner.nextDouble(), velocidadePlano = scanner.nextDouble();
